@@ -4,10 +4,10 @@ Gem::Specification.new do |spec|
   spec.name          = "bay_jekyll_theme"
   spec.version       = "1.0.17"
   spec.authors       = ["Eliott Vincent"]
-  spec.email         = ["hello@eliottvincent.com"]
+  spec.email         = ["hello@JunPeiKatkoi.com"]
 
   spec.summary       = %q{A simple and minimal Jekyll theme..}
-  spec.homepage      = "https://github.com/eliottvincent/bay"
+  spec.homepage      = "https://github.com/JunPeiKatkoi/bay"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select do |f|
