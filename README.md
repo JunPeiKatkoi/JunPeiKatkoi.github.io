@@ -3,16 +3,16 @@
 [![Version](https://img.shields.io/gem/v/bay_jekyll_theme)](https://rubygems.org/gems/bay_jekyll_theme)
 [![Downloads](https://img.shields.io/gem/dt/bay_jekyll_theme)](https://rubygems.org/gems/bay_jekyll_theme)
 
-Bay is a simple theme for Jekyll. [[view live]](https://JunPeiKatkoi.github.io/bay)
+Bay is a simple theme for Jekyll. [[view live]](https://eliottvincent.github.io/bay)
 
-Inspired by [dangrover.com](http://dangrover.com/). Current theme used at [JunPeiKatkoi.com](http://JunPeiKatkoi.com/).
+Inspired by [dangrover.com](http://dangrover.com/). Current theme used at [eliottvincent.com](http://eliottvincent.com/).
 
 ![](/screenshot.png)
 
 ### Installation
 
 
-The easiest solution is to [fork this repo](https://github.com/JunPeiKatkoi/bay/fork).
+The easiest solution is to [fork this repo](https://github.com/eliottvincent/bay/fork).
 If you want to start from a clean website, follow the steps bellow:
 
 Create a new Jekyll website:
@@ -39,7 +39,7 @@ theme: bay_jekyll_theme
 ```
 or, for GitHub Pages:
 ```
-remote_theme: JunPeiKatkoi/bay
+remote_theme: eliottvincent/bay
 ```
 
 Finally, install the dependencies:
